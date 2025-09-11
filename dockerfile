@@ -1,1 +1,1 @@
-COPY .env .env
+
